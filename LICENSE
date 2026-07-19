@@ -1,0 +1,26 @@
+MIT License
+
+Copyright (c) 2026 sentencing-guidelines contributors
+
+이 라이선스는 이 저장소의 원저작 부분(스킬 로직·적용 절차·산출 포맷·문서 등)에
+적용됩니다. 저장소에 포함된 대한민국 양형위원회 『2026 양형기준』의 형량범위·
+양형인자·집행유예 기준 등 데이터는 저작권법 제24조의2(공공저작물의 자유이용)에
+따른 공공저작물로서, 별도의 자유이용 대상입니다(README 참조).
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
